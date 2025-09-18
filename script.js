@@ -1,9 +1,5 @@
 // script.js
-// -----------------------------
 // Aquí irá la lógica principal del proyecto
-// Este archivo lo trabajas solo tú (Persona B)
-// -----------------------------
-
 // Función para sumar dos números
 function sumar(a, b) {
     return a + b;
